@@ -1,0 +1,41 @@
+.alert alert-primary{
+  margin: auto;
+  color:aquamarine;
+font-size: 40px;
+
+}
+.menu{
+  margin: 0px 0px 0px 10px;
+  font-size: 35px;
+  float: right;
+}
+
+.alert-heading{
+  float: initial;
+}
+
+.rounded-circle{
+  margin: 0px 5px 0px 5px;
+}
+
+.alert alert-success{
+  float: right;
+}
+
+.posts{
+  width: 60%;
+  margin: left;
+  border: thick double #32a1ce;
+  /* margin: 10px 100px 0px 100px; */
+}
+.posts_one{
+  width:60%;
+  margin: left;
+  border: 2px groove greenyellow;
+  
+  /* margin: 10px 100px 0px 100px; */
+}
+
+.sb_r{
+  margin: auto;
+}
